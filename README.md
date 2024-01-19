@@ -56,6 +56,7 @@
 <a href="https://aditya-bansal-7.github.io/Guess-Website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Guess-Website&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://aditya-bansal-7.github.io/amazon-website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=amazon-website&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://t.me/yt_download_bnsl_bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=youtube-downloder&show_icons=true&theme=great-gatsby"></a>
+<a href="https://aditya-bansal-7.github.io/water-quality-monitoring-system/website/index.html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=water-quality-monitoring-system&show_icons=true&theme=great-gatsby"></a>
 <a href="https://aditya-bansal-7.github.io/Aditya-Bansal/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Aditya-Bansal&show_icons=true&theme=great-gatsby"></a>
 
 </div>
