@@ -88,3 +88,5 @@
 <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aditya-bansal-7&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bansal-7&layout=compact&theme=dark" width="46%" />
 <br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bansal-7&" alt="aditya-bansal-7" /></p>
