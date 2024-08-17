@@ -1,6 +1,12 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&width=350&center=true&width=480&lines=%3C+Hello+World,+Aditya+Here+%2F%3E;%3C+Full+Stack+Wizard+%2F%3E">
 </p>
+
+<p align="center">
+
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
 <hr>
 
 ![profile count](https://komarev.com/ghpvc/?username=aditya-bansal-7&color=red)&nbsp;
