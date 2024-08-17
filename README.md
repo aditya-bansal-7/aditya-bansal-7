@@ -3,8 +3,6 @@
 </p>
 <hr>
 
------
-
 ![profile count](https://komarev.com/ghpvc/?username=aditya-bansal-7&color=red)&nbsp;
 [![GitHub aditya-bansal-7](https://img.shields.io/github/followers/aditya-bansal-7?label=follow&style=social)](https://github.com/aditya-bansal-7)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
