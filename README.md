@@ -23,6 +23,7 @@
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1kIr05Zeh7qngzgdXG988WqCUoKdf9OH8/view?usp=sharing) for more details about my work experience.
 
 -----
+
 ### 📫 &nbsp; How to reach me:
 
 
@@ -34,22 +35,6 @@
 <a href="https://leetcode.com/aditya-bansal-7/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
 -----  
-
-
-
-
-<h1 align="center">Projects</h1>
-
-</div>
-<div  align="center">
- <a href="https://aditya-bansal-7.github.io/Aditya-Bansal/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Aditya-Bansal&show_icons=true&theme=great-gatsby"></a>
-<a href="https://aditya-bansal-7.github.io/Guess-Website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Guess-Website&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://aditya-bansal-7.github.io/amazon-website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=amazon-website&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://t.me/yt_download_bnsl_bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=youtube-downloder&show_icons=true&theme=great-gatsby"></a>
-<a href="https://aditya-bansal-7.github.io/water-quality-monitoring-system/website/index.html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=water-quality-monitoring-system&show_icons=true&theme=great-gatsby"></a>
-
-
-</div>
 
 
 
@@ -114,4 +99,15 @@
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bansal-7&layout=compact&theme=dark" width="41%"  />
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bansal-7&" alt="aditya-bansal-7"  /></p>
+<h1 align="center">Projects</h1>
+
+</div>
+<div  align="center">
+ <a href="https://aditya-bansal-7.github.io/Aditya-Bansal/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Aditya-Bansal&show_icons=true&theme=great-gatsby"></a>
+<a href="https://aditya-bansal-7.github.io/Guess-Website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Guess-Website&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://aditya-bansal-7.github.io/amazon-website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=amazon-website&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://t.me/yt_download_bnsl_bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=youtube-downloder&show_icons=true&theme=great-gatsby"></a>
+<a href="https://aditya-bansal-7.github.io/water-quality-monitoring-system/website/index.html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=water-quality-monitoring-system&show_icons=true&theme=great-gatsby"></a>
+
+
+</div>
