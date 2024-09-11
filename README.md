@@ -102,7 +102,7 @@
 
 </div>
 <div  align="center">
-<a href="https://aditya-bansal-7.github.io/z-social/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=z-social&show_icons=true&theme=great-gatsby"></a>
+<a href="https://z-social-7.netlify.app//"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=z-social&show_icons=true&theme=great-gatsby"></a>
 <a href="https://aditya-bansal-7.github.io/Aditya-Bansal/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Aditya-Bansal&show_icons=true&theme=great-gatsby"></a>
 <a href="https://aditya-bansal-7.github.io/Guess-Website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Guess-Website&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://aditya-bansal-7.github.io/amazon-website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=amazon-website&show_icons=true&theme=great-gatsby" ></a>
