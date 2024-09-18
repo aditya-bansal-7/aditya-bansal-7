@@ -20,13 +20,15 @@
 <hr>
 <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 
-💡 &nbsp; Hello everyone,I'm pursuing BTech CSE. Love to code  , exploring Data Structures these days. I enjoy collaborating with people on works of similar interest. 
+💡 &nbsp; Hi there! I'm Aditya, a passionate **Frontend Developer** and an active **Open Source Contributor**. My journey in tech has been a blend of creating interactive web experiences and contributing to the open-source community. 
 
-🌱 &nbsp;I'm on track for learning more about Web Development, Data Structures and Algorithm. \
-✍️ &nbsp;Apart from technical interests, I like video editing,watching movies, playing video games, badminton and basketball.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at adityabansalsafe@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1kIr05Zeh7qngzgdXG988WqCUoKdf9OH8/view?usp=sharing) for more details about my work experience.
+🌱 &nbsp;Currently, I'm sharpening my skills in **Data Structures and Algorithms (DSA)** while building projects in **React**, **TypeScript**, and other frontend technologies. \
+💻 &nbsp;I love collaborating with developers from around the world and contributing to meaningful projects in the open-source space. 
+
+🚀 &nbsp;When I'm not coding, you'll find me exploring new tech trends, gaming, or playing sports like badminton and basketball.\
+💬 &nbsp;Feel free to connect with me for project collaboration, open-source discussions, or just a casual chat about tech!\
+✉️ &nbsp;You can reach me at [adityabansalsafe@gmail.com](mailto:adityabansalsafe@gmail.com), and I'll get back to you as soon as possible! \
+📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/1kIr05Zeh7qngzgdXG988WqCUoKdf9OH8/view?usp=sharing) for more details about my professional experience.
 
 -----
 
