@@ -25,7 +25,8 @@
 🌱 &nbsp;Currently, I'm sharpening my skills in **Data Structures and Algorithms (DSA)** while building projects in **React**, **TypeScript**, and other frontend technologies. \
 💻 &nbsp;I love collaborating with developers from around the world and contributing to meaningful projects in the open-source space. 
 
-🚀 &nbsp;When I'm not coding, you'll find me exploring new tech trends, gaming, or playing sports like badminton and basketball.
+🚀 &nbsp;When I'm not coding, you'll find me exploring new tech trends, gaming, or playing sports like badminton and basketball./
+
 -----
 
 <h3 align="center"> 📫 How to reach me: </h3>
