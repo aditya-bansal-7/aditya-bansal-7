@@ -11,7 +11,12 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=aditya-bansal-7&color=red)&nbsp;
 [![GitHub aditya-bansal-7](https://img.shields.io/github/followers/aditya-bansal-7?label=follow&style=social)](https://github.com/aditya-bansal-7)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
+
+
+<p align="center">
+  <a href="https://adityabansal.tech" target="_blank"> <img height=100 width=300 src="https://thumbs.dreamstime.com/b/portfolio-text-written-over-colorful-background-portfolio-business-texture-colorful-blocks-195693092.jpg"> </img> </a>
+</p>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 💡 &nbsp; Hello everyone,I'm pursuing BTech CSE. Love to code  , exploring Data Structures these days. I enjoy collaborating with people on works of similar interest. 
 
