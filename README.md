@@ -25,11 +25,7 @@
 🌱 &nbsp;Currently, I'm sharpening my skills in **Data Structures and Algorithms (DSA)** while building projects in **React**, **TypeScript**, and other frontend technologies. \
 💻 &nbsp;I love collaborating with developers from around the world and contributing to meaningful projects in the open-source space. 
 
-🚀 &nbsp;When I'm not coding, you'll find me exploring new tech trends, gaming, or playing sports like badminton and basketball.\
-💬 &nbsp;Feel free to connect with me for project collaboration, open-source discussions, or just a casual chat about tech!\
-✉️ &nbsp;You can reach me at [adityabansalsafe@gmail.com](mailto:adityabansalsafe@gmail.com), and I'll get back to you as soon as possible! \
-📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/1kIr05Zeh7qngzgdXG988WqCUoKdf9OH8/view?usp=sharing) for more details about my professional experience.
-
+🚀 &nbsp;When I'm not coding, you'll find me exploring new tech trends, gaming, or playing sports like badminton and basketball.
 -----
 
 <h3 align="center"> 📫 How to reach me: </h3>
