@@ -9,14 +9,16 @@
 </p>
 <hr>
 
-![profile count](https://komarev.com/ghpvc/?username=aditya-bansal-7&color=red)&nbsp;
-[![GitHub aditya-bansal-7](https://img.shields.io/github/followers/aditya-bansal-7?label=follow&style=social)](https://github.com/aditya-bansal-7)&nbsp;
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aditya-bansal-7&color=red" ></img>
+<a href="https://github.com/aditya-bansal-7"> <img src="https://img.shields.io/github/followers/aditya-bansal-7?label=follow&style=social"></img> </a>
+</p>
 
 <p align="center">
   <a href="https://adityabansal.tech" target="_blank"> <img height=100 width=300 src="https://thumbs.dreamstime.com/b/portfolio-text-written-over-colorful-background-portfolio-business-texture-colorful-blocks-195693092.jpg"> </img> </a>
 </p>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<hr>
+<h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 
 💡 &nbsp; Hello everyone,I'm pursuing BTech CSE. Love to code  , exploring Data Structures these days. I enjoy collaborating with people on works of similar interest. 
 
@@ -28,24 +30,24 @@
 
 -----
 
-### 📫 &nbsp; How to reach me:
+<h3 align="center"> 📫 How to reach me: </h3>
 
 
-
+<div align="center" width=full>
+  
 <a href="https://www.linkedin.com/in/aditya-bansal7/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://www.instagram.com/aditya_bansal.10/"><img src="https://img.shields.io/badge/-@aditya_bansal.10-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:adityabansalsafe@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.hackerrank.com/profile/adityabansal7"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
 <a href="https://leetcode.com/aditya-bansal-7/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+</div>
 
------  
-
-
-
-### Languages and Tools
 
 
 <hr>
+
+<h3 align="center">  Languages and Tools </h3>
+<div align="center" width=full>
 
 <table>
   <tr>
@@ -92,6 +94,8 @@
  
   
 </table>
+  
+</div>
 <hr>
 
 
