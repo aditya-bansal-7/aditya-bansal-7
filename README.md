@@ -18,16 +18,20 @@
   <a href="https://adityabansal.tech" target="_blank"> <img height=100 width=300 src="https://thumbs.dreamstime.com/b/portfolio-text-written-over-colorful-background-portfolio-business-texture-colorful-blocks-195693092.jpg"> </img> </a>
 </p>
 <hr>
-<h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 
-💡 &nbsp; Hi there! I'm Aditya, a passionate **Frontend Developer** and an active **Open Source Contributor**. My journey in tech has been a blend of creating interactive web experiences and contributing to the open-source community. 
+<details align="center"> 
+  <summary>
+    <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
+  </summary>
 
-🌱 &nbsp;Currently, I'm sharpening my skills in **Data Structures and Algorithms (DSA)** while building projects in **React**, **TypeScript**, and other frontend technologies. \
-💻 &nbsp;I love collaborating with developers from around the world and contributing to meaningful projects in the open-source space. 
-
-🚀 &nbsp;When I'm not coding, you'll find me exploring new tech trends, gaming, or playing sports like badminton and basketball./
-
------
+  
+  💡 &nbsp; Hi there! I'm Aditya, a passionate **Frontend Developer** and an active **Open Source Contributor**. My journey in tech has been a blend of creating interactive web experiences and contributing to the open-source community. 
+  
+  🌱 &nbsp;Currently, I'm sharpening my skills in **Data Structures and Algorithms (DSA)** while building projects in **React**, **TypeScript**, and other frontend technologies. \
+  💻 &nbsp;I love collaborating with developers from around the world and contributing to meaningful projects in the open-source space. 
+  
+  🚀 &nbsp;When I'm not coding, you'll find me exploring new tech trends, gaming, or playing sports like badminton and basketball.
+</details>
 
 <h3 align="center"> 📫 How to reach me: </h3>
 
@@ -73,6 +77,7 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindCSS" width="40" height="40"/> </a>&nbsp;
      <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=threejs" alt="ThreeJs" width="40" height="40"/> </a>&nbsp;
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>&nbsp;
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a>&nbsp;
     </td>
   </tr>
   <tr>
